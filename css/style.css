@@ -1,0 +1,34 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+    text-decoration: none;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: var(--bg);
+    color: #fff;
+}
+
+.form-text{
+    color: black;
+}
+
+.bg-nav3{
+    background-color:crimson
+}
+
+.navbar-nav .nav-item{
+    color: white;
+}
+
+.jumbotron{
+    background-image: url(../sigmund-Fv2J-aK0Acs-unsplash.jpg);
+    background-size: cover;
+
+}
